@@ -1,2 +1,2 @@
-# kagshiprekt
-Shiprekt for KAG, but the good one.
+# ? ? ?
+Build ships, fight ships, win...  ships.
